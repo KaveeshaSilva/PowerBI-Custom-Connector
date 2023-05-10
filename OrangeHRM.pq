@@ -103,7 +103,6 @@ ContentsFuncType = type function (
     Entity as (
         type text meta [
             Documentation.Name = "Entity",
-            Documentation.Description = "Select a entity.",
             Documentation.SampleValues = {"z_pbi_employee_v1"},
             Documentation.AllowedValues = {"z_pbi_employee_v1", "z_pbi_attendance_v1", "z_pbi_leave_v1"}
         ]
